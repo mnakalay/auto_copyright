@@ -1,7 +1,6 @@
 <?php    
 /*
 * Auto Copyright for c5
-*
 * @package Auto Copyright
 * @author Nour Akalay <mnakalay@yahoo.fr>
 * @hugely improved by JohnTheFish
